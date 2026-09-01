@@ -1,0 +1,20 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1788254734.157601,
+    "completed_at": 1788254737.711934,
+    "comments": [
+      "Answer for What is the SHA of the commit HEAD points to? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty.",
+      "Answer for What is the commit message of the commit 71fdf65a3088a861da84e837dd76473bacbb8eea? is empty.",
+      "Answer for What is the SHA of the commit with the commit message \"Rewrite the comments\"? You can use the full length SHA or the short SHA (i.e. first 7 characters of the SHA) is empty."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1788254792.442181,
+    "completed_at": 1788254794.159809,
+    "comments": [],
+    "status": "Completed"
+  }
+]
