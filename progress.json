@@ -107,5 +107,14 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1788486959.840525,
+    "completed_at": 1788486963.661415,
+    "comments": [
+      "Missing question In April, what were the new names added to the duty rosters? Remove/add extra rows where appropriate. in answers file."
+    ],
+    "status": "Error"
   }
 ]
