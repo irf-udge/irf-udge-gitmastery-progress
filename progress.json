@@ -197,23 +197,5 @@
       "Great work with using git branch and git checkout to fix the bugs!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1789533140.820757,
-    "completed_at": 1789533145.22139,
-    "comments": [
-      "The 'visitor-line' branch should have the line 'I heard someone knocking at the door.' added to story.txt."
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "branch-previous",
-    "started_at": 1789533270.917939,
-    "completed_at": 1789533274.724636,
-    "comments": [
-      "The 'visitor-line' branch should start from the second commit (with message 'Describe location')."
-    ],
-    "status": "Incomplete"
   }
 ]
